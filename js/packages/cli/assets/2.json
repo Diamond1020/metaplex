@@ -1,0 +1,41 @@
+{
+    "name": "3",
+    "symbol": "",
+    "image": "2.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "2.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "6ztat2sx9vc88FhpQ6a2CvC2eUvxUMZUQfFuZrRRCgbn",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 500,
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "purple"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "heart-eyes"
+        },
+        {
+            "trait_type": "face",
+            "value": "grapefruit-face"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "block-mouth"
+        }
+    ],
+    "collection": {}
+}

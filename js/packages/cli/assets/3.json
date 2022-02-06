@@ -1,0 +1,41 @@
+{
+    "name": "4",
+    "symbol": "",
+    "image": "3.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "3.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "6ztat2sx9vc88FhpQ6a2CvC2eUvxUMZUQfFuZrRRCgbn",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 500,
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "light-purple"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "egg-eyes"
+        },
+        {
+            "trait_type": "face",
+            "value": "teal-face"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "smile-mouth"
+        }
+    ],
+    "collection": {}
+}

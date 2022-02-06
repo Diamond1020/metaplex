@@ -1,0 +1,8 @@
+{
+  "name": "metaplex",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/metaplex-foundation/metaplex.git",
+  "author": "Nemanja21 <nemanjadeveloperbgd21@gmail.com>",
+  "license": "MIT"
+}

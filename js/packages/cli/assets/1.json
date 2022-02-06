@@ -1,0 +1,41 @@
+{
+    "name": "2",
+    "symbol": "",
+    "image": "1.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "1.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "6ztat2sx9vc88FhpQ6a2CvC2eUvxUMZUQfFuZrRRCgbn",
+                "share": 100
+            }
+        ]
+    },
+    "description": "",
+    "seller_fee_basis_points": 500,
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "green"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "star-eyes"
+        },
+        {
+            "trait_type": "face",
+            "value": "gold-face"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "block-mouth"
+        }
+    ],
+    "collection": {}
+}
